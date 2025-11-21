@@ -2,4 +2,3 @@
 
 Here, I will be hosting a website on that of my hometown of Clonroche
 
-<img width="194" height="259" alt="image" src="https://github.com/user-attachments/assets/f0211c9e-41fe-435b-b283-08601c60b8fb" />
